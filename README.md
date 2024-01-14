@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/worth%20it/worth%20it.gif?raw=true" width="210" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-25-31.gif?raw=true" width="210" title="Storyfy">
 </p>
 
 # solarprintprocess
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/tap-in/t-demo.gif?raw=true" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-23-33.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-34-12.gif?raw=true" width="510" title="Storyfy">
 </p>
 
 # fleurdelis_edcgifting
@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-<img src="" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-01-54-06.gif" width="180" title="Storyfy">
 </p>
 
 # showbeautycosmetics
@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-<img src="" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-29-30.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 # bobblessedobsessed
@@ -105,7 +105,7 @@
 </p>
 
 <p align="center">
-<img src="" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-27-16.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 # freshbuzzz
@@ -117,7 +117,7 @@
 </p>
 
 <p align="center">
-<img src="" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-30-48.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 # beyabellafashion
@@ -129,7 +129,7 @@
 </p>
 
 <p align="center">
-<img src="" width="510" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-02-33-26.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 ## Thanks for stopping by!
