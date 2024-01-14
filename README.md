@@ -9,8 +9,8 @@
 
 
 <p align="center">
-<img src="" width="700"  title="Stry Application">
-<img src="" width="700"  title="Stry Application">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.39.39%20AM.png?raw=true" width="700"  title="Stry Application">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.39.54%20AM.png?raw=true" width="700"  title="Stry Application">
 </p>
 
 <p align="center">
