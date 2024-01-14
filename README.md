@@ -125,6 +125,12 @@ Following almost doubled 17k in 6 months with organic & inorganic strategies.
 # bobblessedobsessed
 <a href="https://www.instagram.com/bobblessedobsessed?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-bobblessedobsessed-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+Women Entrepreneur passionate about building a community through their business which is makeup!
+Working in product based industry allowed me to utilise my creativity to create content that the audience resonates with.
+
+Be it memes, moments or your daily struggles, we capture the essence of what the people want and keep coming back for!
+Building website, Listing products, e-commerce and creative shoots, reels creation, influencer collaborations, content writing, graphic design, you name it, we did everything in-house.
+
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.54%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.19.18%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
