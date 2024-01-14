@@ -63,6 +63,12 @@ Within 6 months, the page was brought to over 5k followers from scratch.
 # masakallie
 <a href="https://www.instagram.com/masakallie?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-masakallie-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+A luxury fashion & lifestyle exhibitor curating a world of elegance & sophistication by providing a platform to bring the sellers into one marketplace for the buyers to shop till they drop.
+
+With pop-up shops being a must-visit in town these days, curating a well executed social media strategy is a must for insured success of the event.
+
+Team @simplysophisticated was very well integrated with design capabilities coupled with social media strategies and content buckets to cheer up the town!
+
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.45.27%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.45.50%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
