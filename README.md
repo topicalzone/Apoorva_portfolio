@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/sparrow007/Android-Portfolio/blob/master/images/stry%20app/stry%20video.gif?raw=true" width="190" title="Word Guess">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-03-39-40.gif?raw=true" width="180" title="Word Guess">
 </p>
 
 # valentino_india (Footwear & accessories)
@@ -65,7 +65,7 @@ Within 6 months, the page was brought to over 5k followers from scratch.
 </p>
 
 <p align="center">
-<img src="https://github.com/Marvel999/Android_Portfolio/blob/main/image/morvinno/m-demo.gif?raw=true" width="210" title="Storyfy">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/24-01-15-03-45-06.gif?raw=true" width="180" title="Storyfy">
 </p>
 
 # panash.official
