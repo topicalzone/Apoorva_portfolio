@@ -9,8 +9,8 @@
 
 
 <p align="center">
-<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.43.46%20AM.png?raw=true" width="700"  title="Stry Application">
-<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.44.49%20AM.png?raw=true" width="700"  title="Stry Application">
+<img src="" width="700"  title="Stry Application">
+<img src="" width="700"  title="Stry Application">
 </p>
 
 <p align="center">
@@ -72,6 +72,64 @@
 <img src="https://raw.githubusercontent.com/Marvel999/Android_Portfolio/main/image/covid/1623387432335.gif" width="510" title="Storyfy">
 </p>
 
+# fleurdelis_edcgifting
+<a href="https://www.instagram.com/fleurdelis_edcgifting?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-fleurdelis_edcgifting-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.17.49%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.05%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="" width="510" title="Storyfy">
+</p>
+
+# showbeautycosmetics
+<a href="https://www.instagram.com/showbeautycosmetics?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-showbeautycosmetics-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.20%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.44%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="" width="510" title="Storyfy">
+</p>
+
+# bobblessedobsessed
+<a href="https://www.instagram.com/bobblessedobsessed?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-bobblessedobsessed-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.54%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.19.18%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="" width="510" title="Storyfy">
+</p>
+
+# freshbuzzz
+<a href="https://www.instagram.com/freshbuzzz?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-freshbuzzz-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.19.33%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.20.04%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="" width="510" title="Storyfy">
+</p>
+
+# beyabellafashion
+<a href="https://www.instagram.com/beyabellafashion?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-beyabellafashion-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.20.40%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.20.59%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<p align="center">
+<img src="" width="510" title="Storyfy">
+</p>
 
 ## Thanks for stopping by!
