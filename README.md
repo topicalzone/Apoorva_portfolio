@@ -1,4 +1,4 @@
-# Apoorva Gupta
+# Apoorva Gupta👋
 
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Portfolio%20Apoorva%20Gupta%20(3).gif?raw=true"  title="Word Guess">
