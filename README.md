@@ -151,6 +151,12 @@ Designing flyers, posters, menu cards, banners etc and help set up shops by phys
 # beyabellafashion
 <a href="https://www.instagram.com/beyabellafashion?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-beyabellafashion-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+A home grown designer started-off this kids clothing brand right after becoming a mother herself taking inspiration from her own story.
+
+We were able to get the brand listed on various e-commerce platforms within the first month with the right pitch, marketing decks and fashion look-books as required by the e-commerce giants.
+
+Building Social Media presence from scratch through organic strategies, within first quarter of working with us, they were able to hit their first 1Cr order near the Diwali season!
+
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.20.40%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.20.59%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
