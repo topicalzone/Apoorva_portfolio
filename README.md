@@ -1,5 +1,9 @@
 # Apoorva Gupta
 
+<p align="center">
+<img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Portfolio%20Apoorva%20Gupta%20(3).gif?raw=true"  title="Word Guess">
+</p>
+
 ### "Digital storyteller 📱 | Social Media Sorcerer ✨ | Crafting compelling narratives in the vast realm of pixels and hashtags. 🚀 Let's turn your brand into a digital sensation! 🌐✨ | #SocialMediaMagic #ContentCreator #DigitalMarketingGuru 🎉"
 
 <a href="https://drive.google.com/file/d/1ZQhyAu2hJ1b-Ty1tG8FFopqlE_pEz0iD/view?usp=drivesdk" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:Apoorva.gupta1197@gmail.com"><img src="https://img.shields.io/badge/Email-Apoorva Gupta-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/apoorva-gupta-976592189/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Apoorva Gupta-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/topicalzone?igsh=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/instagram-topicalzone-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
