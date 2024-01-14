@@ -71,6 +71,12 @@ Within 6 months, the page was brought to over 5k followers from scratch.
 # panash.official
 <a href="https://www.instagram.com/panash.official?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-panash.official-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+A home grown jewellery brand by a couple entrepreneurs passionate to raise their business from scratch.
+
+Creating vivid graphics and attractive grids, using all organic strategies
+
+Nomenclature, influencer activity, audience engagement, vivid graphics and attractive grids coupled with catchy captions helped resonate a social media presence resonating the huge sales orders from e-commerce platforms providing credibility organically.
+
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.46.09%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.47.56%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
