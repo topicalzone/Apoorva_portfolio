@@ -11,6 +11,10 @@
 # sillypixelstudio (Creative Studio)
 <a href="https://www.instagram.com/sillypixelstudio?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-sillypixelstudio-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+A social media agency is all about breaking the stereotype of corporate culture and we do it with a pinch of humour and a grain of salt.
+Calling out the hardships of the work life we knew and stepping into the world of dream jobs of being a creative professional, we all grow and learn.
+
+Using strategies like moment marketing, meme marketing paired with concept designing and visual communication gives us an account of more than 45k followers who just can’t have it enough!
 
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%201.39.39%20AM.png?raw=true" width="700"  title="Stry Application">
