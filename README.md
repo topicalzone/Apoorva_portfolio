@@ -123,6 +123,8 @@ Following almost doubled 17k in 6 months with organic & inorganic strategies.
 # showbeautycosmetics
 <a href="https://www.instagram.com/showbeautycosmetics?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" target="_blank"><img src="https://img.shields.io/badge/instagram-showbeautycosmetics-red.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
+Makeup is a form of creativity and self expression. Show Beauty is all about that! We made sure to give the account a makeover by running a User Generated Content based strategy where the audience is the customer as well as the creator which inspires other people to come along the journey!
+
 <p align="center">
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.20%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/topicalzone/Apoorva_portfolio/blob/main/Screenshot%202024-01-15%20at%202.18.44%20AM.png?raw=true" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
